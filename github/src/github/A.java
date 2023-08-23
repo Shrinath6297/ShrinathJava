@@ -6,6 +6,7 @@ public class A {
 		
 		System.out.println("welcome");
 		Sysytem.out.println("hii");
+		Sysytem.out.println("hi");
 	}
 public static void main(String[] args) {
 	System.out.println("hello world");
