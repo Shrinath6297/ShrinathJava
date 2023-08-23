@@ -2,6 +2,7 @@ package github;
 
 public class A {
 	int a=10;
+	int b;
 	
 	public void m1() {
 		
